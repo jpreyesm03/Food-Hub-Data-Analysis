@@ -2,6 +2,8 @@
 
 This repository contains a data science project developed to perform an end-to-end analysis of a dataset. The notebook includes data preprocessing, exploratory data analysis (EDA), visualization techniques, and business insight. *The dataset and the questions were given by MIT IDSS.*
 
+<a href="https://jpreyesm03.github.io/Food-Hub-Data-Analysis/" target="_blank"><bold>See Project on a Website</bold></a>
+
 ## Project Description
 
 The goal of this project is to demonstrate the complete workflow of a typical data science task, including:
